@@ -1,2 +1,2 @@
-# hello-world
-第一个小程序
+Hello World!
+This is my first programme 
